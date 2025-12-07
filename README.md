@@ -164,10 +164,8 @@ npm start
 * Auth0
 
 <a name="contri"></a>
-## Contributors
 
-* [Sourav Paul](https://github.com/PaulSaurav19)
-* [Vishesh Agrawal](https://github.com/Vishesh-MNNIT)
+
 
 ## Feedback
 Feel free to file an issue if you come across any bugs
